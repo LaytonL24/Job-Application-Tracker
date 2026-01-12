@@ -45,5 +45,6 @@ python3 job_application_tracker.py
 * Navigate to Settings from Menu to export to CSV
 
 ## Screenshots
-
+# Application Menu
+![image alt](https://github.com/LaytonL24/Job-Application-Tracker/blob/b5e6af15288170300f422e3bd4c602a75b60489b/Application%20Menu.png)
 
