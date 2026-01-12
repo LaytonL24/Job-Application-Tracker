@@ -55,7 +55,7 @@ python3 job_application_tracker.py
 ![image alt](https://github.com/LaytonL24/Job-Application-Tracker/blob/f08edd5b1744015417791bebd0ff184f40d0b17f/2%20Filters.png)
 
 ### Graphs Menu
-![image alt](https://github.com/LaytonL24/Job-Application-Tracker/blob/d01a618736294a66193a0c66f606eb8f70963411/Add%20Application.png)
+![image alt](https://github.com/LaytonL24/Job-Application-Tracker/blob/1be93078f95e1d317c27cd1c6ef43bf44d898f63/GraphMenu.png)
 
 ### Settings Menu 
 ![image alt](https://github.com/LaytonL24/Job-Application-Tracker/blob/d01a618736294a66193a0c66f606eb8f70963411/Add%20Application.png)
