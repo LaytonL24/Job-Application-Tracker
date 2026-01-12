@@ -42,6 +42,7 @@ python3 job_application_tracker.py
 * Exported CSV file is saved as `applications_export.csv`
 * Graphs tab is a placeholder for future visualization features
 * Window size is fixed for consistent layout
+* Navigate to Settings from Menu to export to CSV
 
 ## Screenshots
 
